@@ -32,7 +32,7 @@ void createlist(List* q)
 	q->first = NULL;
 	q->last = NULL;
 };
-
+ 
 int push(List* q, TaskNode* n)
 {
 	QueueNode* newList = (QueueNode*)malloc(sizeof(QueueNode));
