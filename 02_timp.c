@@ -28,5 +28,5 @@ int main() {
 	sort(n, mass);
 	for (int i = 0; i < n; i++) { printf("%d ", mass[i]); }
 	printf("\n");
-	return 0;
+	return 0; 
 }
