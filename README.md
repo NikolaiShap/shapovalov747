@@ -31,11 +31,11 @@
   
   Первая программа:
   
- ![alt text](https://drive.google.com/open?id=1xbfcNM6bypZAa-TKJNoNjPjdjBu0jvWe)
+ ![alt text](https://pp.userapi.com/c851328/v851328996/14eba7/MKMsmgEblW4.jpg)
  
   Вторая программа:
   
- ![alt text](https://drive.google.com/open?id=1s7tqHtDwxancBq72CHXHdXRhIpgXkU12)
+ ![alt text](https://pp.userapi.com/c851328/v851328996/14eba0/-gWk198-TSQ.jpg)
  
 
   Выше был продемонстрирован краткий экскурс по данной практической работе, ниже будут представленны ссылки на источники, которые были использованы для оформления данного документа.
